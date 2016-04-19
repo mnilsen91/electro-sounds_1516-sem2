@@ -3,4 +3,4 @@
 
 
 
-##### My repositories are Processing assignments from A-D. Each of the assignments have different projects with sketches and codes.
+###### *My repositories are a collection of Processing assignments from A-D. Projects from A-D are different from one another with sketches and codes.*

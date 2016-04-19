@@ -1,0 +1,6 @@
+#BU-201 PRINCIPAL STUDY 
+##Martin Nilsen: 16836
+
+
+
+##### In assignment D, my main focus was to combine the artistic elements from Sol Lewitt and having to blend with the inspiration on vintage computer art. the fundamental code is referenced by this youtube channel by the name of Alexander Miller. Miller discusses the functions inside Processing that can simulate the vintage computer art to a more modern take. I’ve decided to use floating lines that are swimming in the center of the code. This is to show minimalism but can be dramatically changed with the use of the keyPress function. I have three different visual events but still keeping the “swimming lines” to simulate a hypnotic as well as pleasing visual which is also combines with something of a chaotic/epileptic effect. The first event is shown as a blue dome that has the white swimming lines floating inside it, following with a slow motion solo of the lines floating with a yellow background and finally the chaotic ambience that would happen in the more noisy part of the music composition.
